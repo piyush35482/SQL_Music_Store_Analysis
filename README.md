@@ -11,5 +11,3 @@ Analyze the music playlist database using SQL to help the online music store und
 ![MusicDatabaseSchema](https://user-images.githubusercontent.com/112153548/213707717-bfc9f479-52d9-407b-99e1-e94db7ae10a3.png)
 
 ---
-
-This refined version maintains the core information while presenting it in a more structured and appealing format.
